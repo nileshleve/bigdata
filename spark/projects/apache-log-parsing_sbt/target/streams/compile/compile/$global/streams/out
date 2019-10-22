@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/nileshleve042314/githubProjects/bigdata/spark/projects/apache-log-parsing_sbt/src/main/scala/com/cloudxlab/logparsing/HttpUtils.scala:8:68: comparing values of types Array[String] and Int using `==' will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m    def containsHttp(line:String):Boolean = return line.split(" ") == 10[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
